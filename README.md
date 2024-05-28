@@ -9,3 +9,8 @@ and time-consuming. To achieve this goal, we utilized LLM models and explored th
 quantization to optimize our solution. The results obtained demonstrate the effectiveness of our
 approach in simplifying the code documentation process, thus opening up new perspectives for
 software development.
+### Input :
+![carbon](https://github.com/aymendgt/AI-DocGen/assets/115187592/51a99ac8-babf-485d-8a12-c1198487ea76)
+
+### Output :
+![carbon (1)](https://github.com/aymendgt/AI-DocGen/assets/115187592/77aff85a-120e-434a-b1f4-b873e67c0e16)
